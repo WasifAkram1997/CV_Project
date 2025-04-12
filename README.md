@@ -33,4 +33,14 @@ This project aims to detect American Sign Language (ASL) hand signs and digits u
 - **Sign Digits Dataset**: A dataset containing hand gestures corresponding to the digits (0-9) in sign language.
 
 
+To run the python code for real time detection :
 
+1. ASL dataset
+
+run realtime_detection.py from asl_detection/project_code/realtime_detection.py
+
+2. Combined Dataset
+
+run realtime_detection.py from asl+sign digits detection/project_code/realtime_detection.py
+
+NB: Datasets were downloaded to the local system for this project. Datasets have been removed for hosting repo in github.
